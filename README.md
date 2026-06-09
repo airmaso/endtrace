@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/languages/top/justmaso/endtrace?color=%234E8386" alt="top language in the repository">
-    <img src="https://img.shields.io/github/languages/code-size/justmaso/endtrace?color=%234E8386" alt="code size">
-    <a href="https://github.com/justmaso/endtrace/blob/main/LICENSE"><img src="https://img.shields.io/github/license/justmaso/endtrace?color=%234E8386" alt="license"></a>
+    <img src="https://img.shields.io/github/languages/top/airmaso/endtrace?color=%234E8386" alt="top language in the repository">
+    <img src="https://img.shields.io/github/languages/code-size/airmaso/endtrace?color=%234E8386" alt="code size">
+    <a href="https://github.com/airmaso/endtrace/blob/main/LICENSE"><img src="https://img.shields.io/github/license/airmaso/endtrace?color=%234E8386" alt="license"></a>
 </p>
 
 ---
@@ -25,14 +25,14 @@ A lightweight Python command-line tool that locates Minecraft strongholds using 
 ## Installation
 Using [`pip`](https://pypi.org/project/pip/):
 ```
-git clone https://github.com/justmaso/endtrace.git
+git clone https://github.com/airmaso/endtrace.git
 cd endtrace
 pip install -r requirements.txt
 ```
 
 Using [`conda`](https://anaconda.org/anaconda/conda):
 ```
-git clone https://github.com/justmaso/endtrace.git
+git clone https://github.com/airmaso/endtrace.git
 cd endtrace
 conda install --file requirements.txt
 ```
